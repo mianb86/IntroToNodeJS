@@ -1,0 +1,20 @@
+{
+  "name": "assignment2",
+  "version": "14.15.0",
+  "description": "Simple NodeJS Web App",
+  "main": "nodeserver.js",
+  "scripts": {
+    "start": "node nodeserver.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mianb86/IntroToNodeJS.git"
+  },
+  "author": "Bilal Mian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mianb86/IntroToNodeJS/issues"
+  },
+  "homepage": "https://github.com/mianb86/IntroToNodeJS#readme"
+}
